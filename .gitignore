@@ -1,0 +1,4 @@
+build/
+*.bak
+.vscode/settings.json
+.DS_Store
