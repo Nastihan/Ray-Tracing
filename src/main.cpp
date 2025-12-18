@@ -3,6 +3,7 @@
 #include <ranges>
 #include <vector>
 #include <fstream>
+#include <Vec3.hpp>
 
 auto normalize = [](auto val, auto max) {
     return static_cast<double>(val) / (max - 1);
